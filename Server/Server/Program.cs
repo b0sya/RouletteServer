@@ -15,10 +15,12 @@ namespace Server
             Server server = new Server();
             server.Start();
 
-            for (var i = 0; i < 100500; i++)
-            {
-                Console.Write(i);
-            }
+            //for (var i = 0; i < 100500; i++)
+            //{
+            //    Console.Write(i);
+            //}
+
+            //I realized that this is a useless function, do not forget to remove it, along with the repository
         }
 
     }
