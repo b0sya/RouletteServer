@@ -19,7 +19,6 @@ namespace Server
             {
                 Console.Write(i);
             }
-            }
         }
 
     }
