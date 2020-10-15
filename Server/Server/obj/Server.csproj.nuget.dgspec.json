@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Документы\\Server\\Server\\Server\\Server.csproj": {}
+    "D:\\_Git_hacktoberfest\\Server\\Server\\Server.csproj": {}
   },
   "projects": {
-    "D:\\Документы\\Server\\Server\\Server\\Server.csproj": {
+    "D:\\_Git_hacktoberfest\\Server\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Документы\\Server\\Server\\Server\\Server.csproj",
+        "projectUniqueName": "D:\\_Git_hacktoberfest\\Server\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "D:\\Документы\\Server\\Server\\Server\\Server.csproj",
-        "packagesPath": "C:\\Users\\b0sya\\.nuget\\packages\\",
-        "outputPath": "D:\\Документы\\Server\\Server\\Server\\obj\\",
+        "projectPath": "D:\\_Git_hacktoberfest\\Server\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\cagem\\.nuget\\packages\\",
+        "outputPath": "D:\\_Git_hacktoberfest\\Server\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\b0sya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cagem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

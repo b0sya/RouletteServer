@@ -14,6 +14,14 @@ namespace Server
         {
             Server server = new Server();
             server.Start();
+
+            var i = 0;
+            while (true)
+            {
+                i++;
+                if (i > 100500)
+                    break;
+            }
         }
 
     }
