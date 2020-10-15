@@ -21,6 +21,11 @@ namespace Server
             //}
 
             //I realized that this is a useless function, do not forget to remove it, along with the repository
+            while (true)
+            {
+                Console.WriteLine("Max go to NA xui");
+                //Sorry
+            }
         }
 
     }
