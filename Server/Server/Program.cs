@@ -15,12 +15,10 @@ namespace Server
             Server server = new Server();
             server.Start();
 
-            var i = 0;
-            while (true)
+            for (var i = 0; i < 100500; i++)
             {
-                i++;
-                if (i > 100500)
-                    break;
+                Console.Write(i);
+            }
             }
         }
 
